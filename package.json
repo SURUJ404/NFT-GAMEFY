@@ -41,6 +41,7 @@
     "framer-motion": "^10.15.0",
     "graphql": "^16.8.0",
     "graphql-request": "^6.1.0",
+    "hardhat": "^3.4.4",
     "jsonwebtoken": "^9.0.2",
     "lodash-es": "^4.17.21",
     "mongoose": "^8.8.3",
@@ -101,5 +102,19 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": ".prettierrc.js",
+  "directories": {
+    "doc": "docs",
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SURUJ404/NFT-GAMEFY.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/SURUJ404/NFT-GAMEFY/issues"
+  },
+  "homepage": "https://github.com/SURUJ404/NFT-GAMEFY#readme"
 }
